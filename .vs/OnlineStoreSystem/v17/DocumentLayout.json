@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\OnlineStoreSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9364B43-08FD-4331-A61F-47AF6861C95E}|OnlineStoreSystem\\OnlineStoreSystem.csproj|c:\\users\\asus\\source\\repos\\onlinestoresystem\\onlinestoresystem\\models\\databasecontext\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9364B43-08FD-4331-A61F-47AF6861C95E}|OnlineStoreSystem\\OnlineStoreSystem.csproj|solutionrelative:onlinestoresystem\\models\\databasecontext\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9364B43-08FD-4331-A61F-47AF6861C95E}|OnlineStoreSystem\\OnlineStoreSystem.csproj|c:\\users\\asus\\source\\repos\\onlinestoresystem\\onlinestoresystem\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9364B43-08FD-4331-A61F-47AF6861C95E}|OnlineStoreSystem\\OnlineStoreSystem.csproj|solutionrelative:onlinestoresystem\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9364B43-08FD-4331-A61F-47AF6861C95E}|OnlineStoreSystem\\OnlineStoreSystem.csproj|c:\\users\\asus\\source\\repos\\onlinestoresystem\\onlinestoresystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9364B43-08FD-4331-A61F-47AF6861C95E}|OnlineStoreSystem\\OnlineStoreSystem.csproj|solutionrelative:onlinestoresystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9364B43-08FD-4331-A61F-47AF6861C95E}|OnlineStoreSystem\\OnlineStoreSystem.csproj|c:\\users\\asus\\source\\repos\\onlinestoresystem\\onlinestoresystem\\controllers\\api\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9364B43-08FD-4331-A61F-47AF6861C95E}|OnlineStoreSystem\\OnlineStoreSystem.csproj|solutionrelative:onlinestoresystem\\controllers\\api\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9364B43-08FD-4331-A61F-47AF6861C95E}|OnlineStoreSystem\\OnlineStoreSystem.csproj|c:\\users\\asus\\source\\repos\\onlinestoresystem\\onlinestoresystem\\controllers\\api\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9364B43-08FD-4331-A61F-47AF6861C95E}|OnlineStoreSystem\\OnlineStoreSystem.csproj|solutionrelative:onlinestoresystem\\controllers\\api\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9364B43-08FD-4331-A61F-47AF6861C95E}|OnlineStoreSystem\\OnlineStoreSystem.csproj|c:\\users\\asus\\source\\repos\\onlinestoresystem\\onlinestoresystem\\controllers\\api\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9364B43-08FD-4331-A61F-47AF6861C95E}|OnlineStoreSystem\\OnlineStoreSystem.csproj|solutionrelative:onlinestoresystem\\controllers\\api\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9364B43-08FD-4331-A61F-47AF6861C95E}|OnlineStoreSystem\\OnlineStoreSystem.csproj|c:\\users\\asus\\source\\repos\\onlinestoresystem\\onlinestoresystem\\models\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9364B43-08FD-4331-A61F-47AF6861C95E}|OnlineStoreSystem\\OnlineStoreSystem.csproj|solutionrelative:onlinestoresystem\\models\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9364B43-08FD-4331-A61F-47AF6861C95E}|OnlineStoreSystem\\OnlineStoreSystem.csproj|c:\\users\\asus\\source\\repos\\onlinestoresystem\\onlinestoresystem\\models\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9364B43-08FD-4331-A61F-47AF6861C95E}|OnlineStoreSystem\\OnlineStoreSystem.csproj|solutionrelative:onlinestoresystem\\models\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9364B43-08FD-4331-A61F-47AF6861C95E}|OnlineStoreSystem\\OnlineStoreSystem.csproj|c:\\users\\asus\\source\\repos\\onlinestoresystem\\onlinestoresystem\\models\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9364B43-08FD-4331-A61F-47AF6861C95E}|OnlineStoreSystem\\OnlineStoreSystem.csproj|solutionrelative:onlinestoresystem\\models\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\OnlineStoreSystem\\OnlineStoreSystem\\Controllers\\Api\\OrdersController.cs",
+              "RelativeDocumentMoniker": "OnlineStoreSystem\\Controllers\\Api\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\OnlineStoreSystem\\OnlineStoreSystem\\Controllers\\Api\\OrdersController.cs",
+              "RelativeToolTip": "OnlineStoreSystem\\Controllers\\Api\\OrdersController.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAowHYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T12:21:22.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\OnlineStoreSystem\\OnlineStoreSystem\\Controllers\\Api\\ProductsController.cs",
+              "RelativeDocumentMoniker": "OnlineStoreSystem\\Controllers\\Api\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\OnlineStoreSystem\\OnlineStoreSystem\\Controllers\\Api\\ProductsController.cs",
+              "RelativeToolTip": "OnlineStoreSystem\\Controllers\\Api\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T12:15:03.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\OnlineStoreSystem\\OnlineStoreSystem\\Controllers\\Api\\CustomersController.cs",
+              "RelativeDocumentMoniker": "OnlineStoreSystem\\Controllers\\Api\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\OnlineStoreSystem\\OnlineStoreSystem\\Controllers\\Api\\CustomersController.cs",
+              "RelativeToolTip": "OnlineStoreSystem\\Controllers\\Api\\CustomersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T12:08:09.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\OnlineStoreSystem\\OnlineStoreSystem\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineStoreSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\OnlineStoreSystem\\OnlineStoreSystem\\Program.cs",
+              "RelativeToolTip": "OnlineStoreSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T11:58:06.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\OnlineStoreSystem\\OnlineStoreSystem\\Models\\DatabaseContext\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "OnlineStoreSystem\\Models\\DatabaseContext\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\OnlineStoreSystem\\OnlineStoreSystem\\Models\\DatabaseContext\\MyDbContext.cs",
+              "RelativeToolTip": "OnlineStoreSystem\\Models\\DatabaseContext\\MyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T10:33:47.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\OnlineStoreSystem\\OnlineStoreSystem\\Models\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "OnlineStoreSystem\\Models\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\OnlineStoreSystem\\OnlineStoreSystem\\Models\\Entities\\Product.cs",
+              "RelativeToolTip": "OnlineStoreSystem\\Models\\Entities\\Product.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwBYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T10:30:48.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\OnlineStoreSystem\\OnlineStoreSystem\\Models\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "OnlineStoreSystem\\Models\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\OnlineStoreSystem\\OnlineStoreSystem\\Models\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "OnlineStoreSystem\\Models\\Entities\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T10:29:58.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\OnlineStoreSystem\\OnlineStoreSystem\\Models\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "OnlineStoreSystem\\Models\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\OnlineStoreSystem\\OnlineStoreSystem\\Models\\Entities\\Order.cs",
+              "RelativeToolTip": "OnlineStoreSystem\\Models\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T10:28:38.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\OnlineStoreSystem\\OnlineStoreSystem\\Models\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "OnlineStoreSystem\\Models\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\OnlineStoreSystem\\OnlineStoreSystem\\Models\\Entities\\Customer.cs",
+              "RelativeToolTip": "OnlineStoreSystem\\Models\\Entities\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T10:27:25.744Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
