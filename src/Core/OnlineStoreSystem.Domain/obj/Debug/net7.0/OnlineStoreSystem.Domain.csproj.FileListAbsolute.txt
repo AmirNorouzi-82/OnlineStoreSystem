@@ -1,0 +1,12 @@
+C:\Users\Asus\Downloads\OnlineStoreSystem\OnlineStoreSystem\src\Core\OnlineStoreSystem.Domain\bin\Debug\net7.0\OnlineStoreSystem.Domain.deps.json
+C:\Users\Asus\Downloads\OnlineStoreSystem\OnlineStoreSystem\src\Core\OnlineStoreSystem.Domain\bin\Debug\net7.0\OnlineStoreSystem.Domain.dll
+C:\Users\Asus\Downloads\OnlineStoreSystem\OnlineStoreSystem\src\Core\OnlineStoreSystem.Domain\bin\Debug\net7.0\OnlineStoreSystem.Domain.pdb
+C:\Users\Asus\Downloads\OnlineStoreSystem\OnlineStoreSystem\src\Core\OnlineStoreSystem.Domain\obj\Debug\net7.0\OnlineStoreSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Downloads\OnlineStoreSystem\OnlineStoreSystem\src\Core\OnlineStoreSystem.Domain\obj\Debug\net7.0\OnlineStoreSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\Asus\Downloads\OnlineStoreSystem\OnlineStoreSystem\src\Core\OnlineStoreSystem.Domain\obj\Debug\net7.0\OnlineStoreSystem.Domain.AssemblyInfo.cs
+C:\Users\Asus\Downloads\OnlineStoreSystem\OnlineStoreSystem\src\Core\OnlineStoreSystem.Domain\obj\Debug\net7.0\OnlineStoreSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\OnlineStoreSystem\OnlineStoreSystem\src\Core\OnlineStoreSystem.Domain\obj\Debug\net7.0\OnlineStoreSystem.Domain.sourcelink.json
+C:\Users\Asus\Downloads\OnlineStoreSystem\OnlineStoreSystem\src\Core\OnlineStoreSystem.Domain\obj\Debug\net7.0\OnlineStoreSystem.Domain.dll
+C:\Users\Asus\Downloads\OnlineStoreSystem\OnlineStoreSystem\src\Core\OnlineStoreSystem.Domain\obj\Debug\net7.0\refint\OnlineStoreSystem.Domain.dll
+C:\Users\Asus\Downloads\OnlineStoreSystem\OnlineStoreSystem\src\Core\OnlineStoreSystem.Domain\obj\Debug\net7.0\OnlineStoreSystem.Domain.pdb
+C:\Users\Asus\Downloads\OnlineStoreSystem\OnlineStoreSystem\src\Core\OnlineStoreSystem.Domain\obj\Debug\net7.0\ref\OnlineStoreSystem.Domain.dll
