@@ -13,7 +13,7 @@ public static class PersistanceServiceRegistration
     {
         services.AddDbContext<ApplicationDbContext>(options =>
         {
-            options.UseSqlite(configuration.GetConnectionString("DatabaseConnectionString"));
+            options.UseSqlServer(configuration.GetConnectionString("DatabaseConnectionString"));
         });
         services.AddScoped<ICustomerRepository, CustomerRepository>();
         services.AddScoped<IOrderRepository, OrderRepository>();
