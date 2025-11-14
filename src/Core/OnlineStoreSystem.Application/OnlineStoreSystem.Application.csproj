@@ -7,12 +7,29 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.1.1" />
     <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="7.0.0" />
     <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="7.0.0" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\OnlineStoreSystem.Domain\OnlineStoreSystem.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Features\OrderItemFeatures\Handlers\Commands\" />
+    <Folder Include="Features\OrderItemFeatures\Handlers\Queries\" />
+    <Folder Include="Features\OrderItemFeatures\Requests\Commands\" />
+    <Folder Include="Features\OrderItemFeatures\Requests\Queries\" />
+    <Folder Include="Features\OrderStatusFeatures\Handlers\Commands\" />
+    <Folder Include="Features\OrderStatusFeatures\Handlers\Queries\" />
+    <Folder Include="Features\OrderStatusFeatures\Requests\Commands\" />
+    <Folder Include="Features\OrderStatusFeatures\Requests\Queries\" />
+    <Folder Include="Features\ProductCategoryFeatures\Handlers\Commands\" />
+    <Folder Include="Features\ProductCategoryFeatures\Handlers\Queries\" />
+    <Folder Include="Features\ProductCategoryFeatures\Requests\Commands\" />
+    <Folder Include="Features\ProductCategoryFeatures\Requests\Queries\" />
+    <Folder Include="MappingProfiles\" />
   </ItemGroup>
 
 </Project>
