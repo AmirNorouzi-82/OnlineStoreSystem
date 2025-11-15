@@ -7,13 +7,21 @@
 	</PropertyGroup>
 
 	<ItemGroup>
+		<PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="7.0.10" />
 		<PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.0" />
+		<PackageReference Include="Microsoft.IdentityModel.Tokens" Version="8.14.0" />
+		<PackageReference Include="Serilog" Version="4.3.0" />
+		<PackageReference Include="Serilog.AspNetCore" Version="9.0.0" />
+		<PackageReference Include="Serilog.Settings.Configuration" Version="9.0.0" />
+		<PackageReference Include="Serilog.Sinks.Console" Version="6.1.1" />
 		<PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
 		<PackageReference Include="MediatR" Version="12.1.1" />
+		<PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.14.0" />
 	</ItemGroup>
 
 	<ItemGroup>
 		<ProjectReference Include="..\..\Core\OnlineStoreSystem.Application\OnlineStoreSystem.Application.csproj" />
+		<ProjectReference Include="..\..\Core\OnlineStoreSystem.Domain\OnlineStoreSystem.Domain.csproj" />
 		<ProjectReference Include="..\..\Infrastructure\OnlineStoreSystem.Persistance\OnlineStoreSystem.Persistance.csproj" />
 	</ItemGroup>
 

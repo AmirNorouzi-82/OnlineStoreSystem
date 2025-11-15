@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "OnlineStoreSystem.API.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "OnlineStoreSystem.Application.Common.Contracts.Authentication.LoginRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "OnlineStoreSystem.API.Controllers.CustomerController",
     "Method": "GetCustomerById",
     "RelativePath": "api/Customer/{id}",
@@ -24,8 +40,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "customer",
-        "Type": "OnlineStoreSystem.Domain.Customer",
+        "Name": "dto",
+        "Type": "OnlineStoreSystem.Application.DTO.CustomerDTOs.CreateCustomerDTO",
         "IsRequired": true
       }
     ],
@@ -59,6 +75,16 @@
   },
   {
     "ContainingType": "OnlineStoreSystem.API.Controllers.CustomerController",
+    "Method": "SecureTest",
+    "RelativePath": "api/Customer/SecureTest",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OnlineStoreSystem.API.Controllers.CustomerController",
     "Method": "UpdateCustomer",
     "RelativePath": "api/Customer/Update/{id}",
     "HttpMethod": "PUT",
@@ -71,8 +97,8 @@
         "IsRequired": true
       },
       {
-        "Name": "customer",
-        "Type": "OnlineStoreSystem.Domain.Customer",
+        "Name": "dto",
+        "Type": "OnlineStoreSystem.Application.DTO.CustomerDTOs.UpdateCustomerDTO",
         "IsRequired": true
       }
     ],
@@ -119,8 +145,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "order",
-        "Type": "OnlineStoreSystem.Domain.Order",
+        "Name": "dto",
+        "Type": "OnlineStoreSystem.Application.DTO.OrderDTOs.CreateOrderDTO",
         "IsRequired": true
       }
     ],
@@ -150,8 +176,8 @@
         "IsRequired": true
       },
       {
-        "Name": "order",
-        "Type": "OnlineStoreSystem.Domain.Order",
+        "Name": "dto",
+        "Type": "OnlineStoreSystem.Application.DTO.OrderDTOs.UpdateOrderDTO",
         "IsRequired": true
       }
     ],
@@ -176,8 +202,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "product",
-        "Type": "OnlineStoreSystem.Domain.Product",
+        "Name": "dto",
+        "Type": "OnlineStoreSystem.Application.DTO.ProductDTOs.CreateProductDTO",
         "IsRequired": true
       }
     ],
@@ -213,8 +239,8 @@
         "IsRequired": true
       },
       {
-        "Name": "product",
-        "Type": "OnlineStoreSystem.Domain.Product",
+        "Name": "dto",
+        "Type": "OnlineStoreSystem.Application.DTO.ProductDTOs.UpdateProductDTO",
         "IsRequired": true
       }
     ],
